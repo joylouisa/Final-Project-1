@@ -1,2 +1,2 @@
 # Projects
-Contains projects from 
+Contains university academic projects.
