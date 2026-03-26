@@ -1,2 +1,2 @@
 # Projects
-Contains university academic projects.
+This contains various projects completed during my university years, covering a range of data analysis and machine learning topics. These projects involved developing and evaluating multiple models, conducting research on different techniques and methods, and working with real datasets to ensure accurate and reliable results. Across these projects, I applied systematic experimentation, performed in-depth analysis, and produced structured research reports.
